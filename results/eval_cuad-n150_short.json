@@ -1,0 +1,68 @@
+{
+  "model": "cuad-n150",
+  "prompt": "short",
+  "contracts": 102,
+  "decisions": 4182,
+  "chunks_scored": 150,
+  "chunks_total": 150,
+  "missing_chunks": [],
+  "dropped_prediction_keys": 80,
+  "run_config": {
+    "model": "cuad-n150",
+    "prompt": "short",
+    "num_predict": 12288,
+    "temperature": 0.0,
+    "num_ctx_rule": "min(40960, max(8192, ceil((chars/4.5 + 800 + num_predict)/2048)*2048))",
+    "fallbacks": [
+      {
+        "repeat_penalty": 1.05,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement__chunk1",
+          "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement__chunk2",
+          "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement__chunk0",
+          "GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT__chunk3",
+          "BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.__chunk0",
+          "BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.__chunk1",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk0",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk1",
+          "MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement__chunk0",
+          "HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT__chunk0",
+          "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT__chunk1",
+          "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __chunk0",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk1",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk4"
+        ],
+        "chunks_still_failing": [
+          "PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT __chunk1",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk2",
+          "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __chunk1",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2"
+        ]
+      },
+      {
+        "repeat_penalty": 1.15,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT __chunk1",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk2",
+          "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __chunk1",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2"
+        ],
+        "chunks_still_failing": []
+      }
+    ]
+  },
+  "detection_precision": 0.8744,
+  "detection_recall": 0.8505,
+  "detection_f1": 0.8623,
+  "detection_f1_ci95": [
+    0.8464,
+    0.8783
+  ],
+  "overlap_tokenF1_on_TP": 0.8999,
+  "verbatim_rate_casefolded": 0.9512,
+  "total_predicted_quotes": 2276
+}

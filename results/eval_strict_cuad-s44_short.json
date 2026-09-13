@@ -1,0 +1,25 @@
+{
+  "model": "cuad-s44",
+  "prompt": "short",
+  "contracts": 102,
+  "metric": "full-span-coverage F1 (ContractEval-style approximation)",
+  "note": "TP requires predicted quote(s) to fully contain the gold span(s), whitespace-normalized + casefolded substring match",
+  "strict_all_spans": {
+    "precision": 0.8502,
+    "recall": 0.5611,
+    "f1": 0.676,
+    "f1_ci95": [
+      0.6439,
+      0.7082
+    ]
+  },
+  "strict_any_span": {
+    "precision": 0.8911,
+    "recall": 0.8087,
+    "f1": 0.8479,
+    "f1_ci95": [
+      0.8286,
+      0.8659
+    ]
+  }
+}

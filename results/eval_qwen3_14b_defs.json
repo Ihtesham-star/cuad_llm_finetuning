@@ -1,0 +1,38 @@
+{
+  "model": "qwen3:14b",
+  "prompt": "defs",
+  "contracts": 102,
+  "decisions": 4182,
+  "chunks_scored": 150,
+  "chunks_total": 150,
+  "missing_chunks": [],
+  "dropped_prediction_keys": 0,
+  "run_config": {
+    "model": "qwen3:14b",
+    "prompt": "defs",
+    "num_predict": 12288,
+    "temperature": 0.0,
+    "num_ctx_rule": "min(40960, max(8192, ceil((chars/4.5 + 800 + num_predict)/2048)*2048))",
+    "fallbacks": [
+      {
+        "repeat_penalty": 1.05,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT__chunk0"
+        ],
+        "chunks_still_failing": []
+      }
+    ]
+  },
+  "detection_precision": 0.8143,
+  "detection_recall": 0.8175,
+  "detection_f1": 0.8159,
+  "detection_f1_ci95": [
+    0.8016,
+    0.8302
+  ],
+  "overlap_tokenF1_on_TP": 0.7292,
+  "verbatim_rate_casefolded": 0.8539,
+  "total_predicted_quotes": 1725
+}

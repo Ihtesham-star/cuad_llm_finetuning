@@ -1,0 +1,57 @@
+{
+  "model": "cuad-extractor",
+  "prompt": "short",
+  "contracts": 102,
+  "decisions": 4182,
+  "chunks_scored": 150,
+  "chunks_total": 150,
+  "missing_chunks": [],
+  "dropped_prediction_keys": 7,
+  "run_config": {
+    "model": "cuad-extractor",
+    "prompt": "short",
+    "num_predict": 12288,
+    "temperature": 0.0,
+    "num_ctx_rule": "min(40960, max(8192, ceil((chars/4.5 + 800 + num_predict)/2048)*2048))",
+    "fallbacks": [
+      {
+        "repeat_penalty": 1.05,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement__chunk0",
+          "VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT__chunk0",
+          "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT__chunk0",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk0",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk1",
+          "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __chunk2",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk0"
+        ],
+        "chunks_still_failing": [
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2",
+          "INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT__chunk0"
+        ]
+      },
+      {
+        "repeat_penalty": 1.15,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2",
+          "INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT__chunk0"
+        ],
+        "chunks_still_failing": []
+      }
+    ]
+  },
+  "detection_precision": 0.901,
+  "detection_recall": 0.8995,
+  "detection_f1": 0.9002,
+  "detection_f1_ci95": [
+    0.8873,
+    0.9133
+  ],
+  "overlap_tokenF1_on_TP": 0.9383,
+  "verbatim_rate_casefolded": 0.9722,
+  "total_predicted_quotes": 2234
+}

@@ -1,0 +1,25 @@
+{
+  "model": "qwen3:14b",
+  "prompt": "defs",
+  "contracts": 102,
+  "metric": "full-span-coverage F1 (ContractEval-style approximation)",
+  "note": "TP requires predicted quote(s) to fully contain the gold span(s), whitespace-normalized + casefolded substring match",
+  "strict_all_spans": {
+    "precision": 0.6215,
+    "recall": 0.3063,
+    "f1": 0.4103,
+    "f1_ci95": [
+      0.3747,
+      0.4433
+    ]
+  },
+  "strict_any_span": {
+    "precision": 0.7078,
+    "recall": 0.4518,
+    "f1": 0.5515,
+    "f1_ci95": [
+      0.5169,
+      0.5848
+    ]
+  }
+}

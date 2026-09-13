@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+data/CUAD_v1/
+data/train.jsonl
+data/test.jsonl
+data/predictions/
+models/

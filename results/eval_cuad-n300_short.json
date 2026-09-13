@@ -1,0 +1,53 @@
+{
+  "model": "cuad-n300",
+  "prompt": "short",
+  "contracts": 102,
+  "decisions": 4182,
+  "chunks_scored": 150,
+  "chunks_total": 150,
+  "missing_chunks": [],
+  "dropped_prediction_keys": 4,
+  "run_config": {
+    "model": "cuad-n300",
+    "prompt": "short",
+    "num_predict": 12288,
+    "temperature": 0.0,
+    "num_ctx_rule": "min(40960, max(8192, ceil((chars/4.5 + 800 + num_predict)/2048)*2048))",
+    "fallbacks": [
+      {
+        "repeat_penalty": 1.05,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement__chunk0",
+          "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__chunk0",
+          "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT__chunk0",
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk0",
+          "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__chunk0"
+        ],
+        "chunks_still_failing": [
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2"
+        ]
+      },
+      {
+        "repeat_penalty": 1.15,
+        "temperature": 0.0,
+        "reason": "primary greedy decode hit repetition loop / invalid JSON",
+        "chunks_recovered": [
+          "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__chunk2"
+        ],
+        "chunks_still_failing": []
+      }
+    ]
+  },
+  "detection_precision": 0.8902,
+  "detection_recall": 0.8802,
+  "detection_f1": 0.8852,
+  "detection_f1_ci95": [
+    0.8701,
+    0.9
+  ],
+  "overlap_tokenF1_on_TP": 0.9362,
+  "verbatim_rate_casefolded": 0.9646,
+  "total_predicted_quotes": 2287
+}
