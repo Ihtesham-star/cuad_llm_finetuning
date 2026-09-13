@@ -12,6 +12,8 @@ This is the public follow-up to a private project where the same recipe (small m
 QLoRA + explicit-absence training) replaced a cloud API for medical document extraction.
 CUAD is the public, verifiable version of that claim.
 
+![Local demo: 10 of 41 clause types extracted from a development agreement in 6 seconds](demo/screenshot.png)
+
 ## Results
 
 Official CUAD split: 408 training contracts, 102 test contracts, no overlap. All
