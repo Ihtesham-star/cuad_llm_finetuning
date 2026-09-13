@@ -1,0 +1,209 @@
+[
+ {
+  "name": "Development agreement (HF Enterprises)",
+  "text": "10.22   OUTSOURCE TECHNOLOGY DEVELOPMENT AGREEMENT   This Outsource Technology Development Agreement (this \"Agreement\") is entered into and effective as of this 1s t day of March, 2018 (the \"Effective Date\") by and between Document Security Systems, Inc., a corporation organized and existing under the laws of the State of New York (\"DSS\"), and HotApp International Ltd., a corporation organized and existing under the laws of Hong Kong (\"Developer\").   RECITALS:   WHEREAS, DSS is engaged in the business of, among other things, developing and licensing anti-counterfeiting technology, processes and products providing protection against a wide range of threats, including product diversion and counterfeiting, brand infringement, forgery, and unauthorized copying, scanning and photo imaging;   WHEREAS, Developer is engaged in the business of, among other things, software development; and   WHEREAS, DSS desires to retain Developer for the purpose of assisting DSS in developing an Android software application to be included as part of DSS's AuthentiGuard® Technology suite, and DSS is willing to grant Developer a non-exclusive, limited and non-transferable license for purposes of such development activities.   NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:   Capitalized terms contained herein shall have the meanings ascribed to them herein, or in Schedule 1 which is annexed hereto and made a part of this Agreement.   1. Development License and Fees.   1.1. Development License. Subject to the terms and conditions set forth herein, DSS hereby grants to Developer, and Developer accepts from DSS, for the Term, a non-exclusive, limited, and non-transferable license to install and use the Technology for the sole purpose of developing the Improvements (as defined hereunder) thereto for the benefit of DSS (the \"Technology Development Services License\").   1.2. Development Fees. As payment for Developer's satisfactory performance of the services set forth in Schedule 1 hereto (the \"Technology Development Services\"), DSS shall pay Developer the sum of US $23,000 per month, for the duration of the Term hereof, with payments to commence on March 1, 2018.   2.  Term and Termination.   2.1. Term. The initial term of this Agreement shall commence on the Effective Date, and shall continue thereafter for a period of twelve (12) months (the \"Initial Term\"). The Initial Term shall automatically renew for one-month periods thereafter unless either party provides 30- days advance notice of termination, unless earlier terminated pursuant to Section 2.2 hereof. For purposes hereof, the Initial Term, together with any extension or renewal terms, shall hereinafter be collectively referred to as the \"Term\".   2.2. Early Termination.   2.2.1. Either party may terminate this Agreement prior to expiration of the Term: (i) upon thirty (30) days prior written notice, or (ii) immediately upon written notice to the other party if: (a) the other party declares or a petition is filed in any court for insolvency or bankruptcy and such petition is not dismissed in thirty (30) days; (b) the other party reorganizes under the relevant bankruptcy act or any similar statute in such party's jurisdiction of incorporation; (c) the other party consents to the appointment of a trustee in bankruptcy or a receiver or similar entity; or (d) the Developer breaches DSS's Technology or Intellectual Property rights contained herein.   2.2.2. Upon the expiration or termination of this Agreement, (i) the Technology Development Services License granted to Developer hereunder shall immediately cease, and (ii) Developer shall immediately cease use of all proprietary technology files heretofore delivered by DSS and shall deliver to DSS all such proprietary files along with any and all Improvements completed to date by Developer.     1\n\nSource: HF ENTERPRISES INC., S-1, 12/23/2019\n\n\n\n\n\n    3. Proprietary Rights.   3.1. Subject to Developer's expressly granted rights under this Agreement, Developer acknowledges and agrees that DSS shall own all right, title, and interest in and to the Technology, the Improvements, its Intellectual Property, and all future derivative works derived therefrom or developed hereunder. Developer agrees that it will not at any time (i) do or cause to be done any act or thing contesting or in any way impairing any part of such right, title and interest or (ii) represent, expressly or by implication that it has any right, title or interest in or to any of the foregoing other than as expressly set forth herein.   3.2. Developer hereby acknowledges DSS's claim of sole ownership of the Technology, the Improvements, and all associated goodwill. Nothing in this Agreement or in the performance thereof, or that might otherwise be implied by law, shall operate to grant Developer any right, title, or interest in or to the Technology or the",
+  "output": {
+   "Document Name": [
+    "OUTSOURCE TECHNOLOGY DEVELOPMENT AGREEMENT"
+   ],
+   "Parties": [
+    "Document Security Systems, Inc.",
+    "HotApp International Ltd.",
+    "DSS",
+    "Developer"
+   ],
+   "Agreement Date": [
+    "1s t day of March, 2018"
+   ],
+   "Effective Date": [
+    "1s t day of March, 2018"
+   ],
+   "Expiration Date": [
+    "The initial term of this Agreement shall commence on the Effective Date, and shall continue thereafter for a period of twelve (12) months (the \"Initial Term\")."
+   ],
+   "Renewal Term": [
+    "The Initial Term shall automatically renew for one-month periods thereafter unless either party provides 30- days advance notice of termination, unless earlier terminated pursuant to Section 2.2 hereof."
+   ],
+   "Notice Period to Terminate Renewal": [
+    "The Initial Term shall automatically renew for one-month periods thereafter unless either party provides 30- days advance notice of termination, unless earlier terminated pursuant to Section 2.2 hereof."
+   ],
+   "Governing Law": [],
+   "Most Favored Nation": [],
+   "Non-Compete": [],
+   "Exclusivity": [],
+   "No-Solicit of Customers": [],
+   "Competitive Restriction Exception": [],
+   "No-Solicit of Employees": [],
+   "Non-Disparagement": [],
+   "Termination for Convenience": [],
+   "Rofr/Rofo/Rofn": [],
+   "Change of Control": [],
+   "Anti-Assignment": [],
+   "Revenue/Profit Sharing": [],
+   "Price": [
+    "As payment for Developer's satisfactory performance of the services set forth in Schedule 1 hereto (the \"Technology Development Services\"), DSS shall pay Developer the sum of US $23,000 per month, for the duration of the Term hereof, with payments to commence on March 1, 2018."
+   ],
+   "Minimum Commitment": [],
+   "Volume Restriction": [],
+   "IP Ownership Assignment": [],
+   "Joint IP Ownership": [],
+   "License Grant": [
+    "Subject to the terms and conditions set forth herein, DSS hereby grants to Developer, and Developer accepts from DSS, for the Term, a non-exclusive, limited, and non-transferable license to install and use the Technology for the sole purpose of developing the Improvements (as defined hereunder) thereto for the benefit of DSS (the \"Technology Development Services License\")."
+   ],
+   "Non-Transferable License": [
+    "Subject to the terms and conditions set forth herein, DSS hereby grants to Developer, and Developer accepts from DSS, for the Term, a non-exclusive, limited, and non-transferable license to install and use the Technology for the sole purpose of developing the Improvements (as defined hereunder) thereto for the benefit of DSS (the \"Technology Development Services License\")."
+   ],
+   "Affiliate License-Licensor": [],
+   "Affiliate License-Licensee": [],
+   "Unlimited/All-You-Can-Eat-License": [],
+   "Irrevocable or Perpetual License": [],
+   "Source Code Escrow": [],
+   "Post-Termination Services": [],
+   "Audit Rights": [],
+   "Uncapped Liability": [],
+   "Cap on Liability": [],
+   "Liquidated Damages": [],
+   "Warranty Duration": [],
+   "Insurance": [],
+   "Covenant Not to Sue": [],
+   "Third Party Beneficiary": []
+  }
+ },
+ {
+  "name": "Endorsement agreement (Women's Golf Unlimited)",
+  "text": "                                 EXHIBIT 10.13\n\n                                                                  EXECUTION COPY\n\n                              ENDORSEMENT AGREEMENT                               ---------------------\n\n         This Endorsement Agreement (\"Agreement\") is made this 13th day of October, 1999 by and between SQUARE TWO GOLF INC., a New Jersey corporation (the \"Company\"), and KATHY WHITWORTH, an individual, with an address at 302 La Mancha Court, Santa Fe, New Mexico, 87501 (the \"Professional\").\n\n                                    RECITALS                                     --------\n\n         WHEREAS, the Company manufactures and sells women's golf clubs and other golf equipment;\n\n         WHEREAS, the Professional is a retired Ladies Professional Golf Association (\"LPGA\") Tour Professional;\n\n         WHEREAS, the Company desires to utilize the services of the Professional in connection with the promotion, marketing, and sale of a signature line of women's golf clubs and the Company's other products and services; and\n\n         WHEREAS, the Company and the Professional desire to enter into an agreement pursuant to which the Professional will serve the Company as an independent contractor, on the terms and subject to the conditions set forth herein.\n\n         NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the Company and the Professional hereby agree as follows:\n\n1.       TERM.\n\n         1.1 The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\").\n\n2.       ENDORSEMENT SERVICES.\n\n         During the Term, the Professional will provide the services described in this Section 2 (the \"Services\"):\n\n         2.1 The Professional hereby grants to the Company an exclusive license to use her name, likeness, image and personal identification, singly or in any combination, in connection with the production, use, marketing and sale of a \"Kathy Whitworth\" signature line of women's golf clubs (the \"Products\"), as described more fully in Section 3 below.\n\n   2\n\n                                                                  EXECUTION COPY\n\n         2.2 The Professional agrees to serve as a professional golf instructor during up to ten (10) golf clinics hosted by the Company per calendar year at locations within the United States to be determined by the Company. The golf clinics shall be one or two day events.\n\n         2.3 The Professional agrees to serve as a spokesperson for the Company at up to two (2) Professional Golf Association merchandise shows, including but not limited to the PGA Merchandise Shows.\n\n         2.4 The Professional hereby grants to the Company the exclusive and worldwide right to use her name, likeness, image and personal identification, singly or in any combination, during the Term and for a period of six (6) months after the Term as provided in Section 2.8, in the creation of two (2) print advertisements per year and one (1) television advertisement per year (together, the \"Advertisements\") for any golf equipment, along with all rights in any images, videos, advertisement copy or other materials created by the Professional or others. The Professional agrees that the Company shall own all such materials and all intellectual property rights&bbsp;therein for use in perpetuity in any media now known or hereafter devised or developed, including but not limited to the internet. The Professional hereby grants to the Company the worldwide right during the Term and for a period of six (6) months after the Term as provided in Section 2.8 to use, reproduce, print, publish, distribute, broadcast, modify, edit, condense, or expand any materials containing her name, image, likeness or personal identification that are created hereunder.\n\n         2.5 The Professional hereby grants to the Company an exclusive license to use her name, likeness, image and personal identification in the Company's catalog of products.\n\n         2.6 The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products,\n\n\n\n\n\nincluding but not limited to market consultations, each of which shall include meeting with the Company executives to assist in the design, development, marketing and promotion of the Company's products.\n\n         2.7 The Professional agrees to use only the golf clubs and golf bags of the Company in any golf event, whether professional or social, during the Term. The Professional agrees (i) to use no golf bag bearing any identification of a competitor of the Company and (ii) to wear no apparel bearing any identification of a competitor of the Company, and will prohibit any caddy of hers from bearing any such identification.\n\n         2.8 The Company shall",
+  "output": {
+   "Document Name": [
+    "ENDORSEMENT AGREEMENT"
+   ],
+   "Parties": [
+    "KATHY WHITWORTH",
+    "SQUARE TWO GOLF INC."
+   ],
+   "Agreement Date": [
+    "13th day of October, 1999"
+   ],
+   "Effective Date": [
+    "1.1 The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\")."
+   ],
+   "Expiration Date": [
+    "1.1 The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\")."
+   ],
+   "Renewal Term": [
+    "1.1 The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\")."
+   ],
+   "Notice Period to Terminate Renewal": [],
+   "Governing Law": [],
+   "Most Favored Nation": [],
+   "Non-Compete": [],
+   "Exclusivity": [
+    "The Professional hereby grants to the Company an exclusive license to use her name, likeness, image and personal identification, singly or in any combination, in connection with the production, use, marketing and sale of a \"Kathy Whitworth\" signature line of women's golf clubs (the \"Products\"), as described more fully in Section 3 below.",
+    "The Professional hereby grants to the Company the exclusive and worldwide right to use her name, likeness, image and personal identification, singly or in any combination, during the Term and for a period of six (6) months after the Term as provided in Section 2.8, in the creation of two (2) print advertisements per year and one (1) television advertisement per year (together, the \"Advertisements\") for any golf equipment, along with all rights in any images, videos, advertisement copy or other materials created by the Professional or others."
+   ],
+   "No-Solicit of Customers": [],
+   "Competitive Restriction Exception": [],
+   "No-Solicit of Employees": [],
+   "Non-Disparagement": [],
+   "Termination for Convenience": [],
+   "Rofr/Rofo/Rofn": [],
+   "Change of Control": [],
+   "Anti-Assignment": [],
+   "Revenue/Profit Sharing": [],
+   "Price Restrictions": [],
+   "Minimum Commitment": [
+    "The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products,"
+   ],
+   "Volume Restriction": [
+    "The Professional agrees to serve as a professional golf instructor during up to ten (10) golf clinics hosted by the Company per calendar year at locations within the United States to be determined by the Company.",
+    "The Professional agrees to serve as a spokesperson for the Company at up to two (2) Professional Golf Association merchandise shows, including but not limited to the PGA Merchandise Shows."
+   ],
+   "IP Ownership Assignment": [],
+   "Joint IP Ownership": [],
+   "License Grant": [
+    "The Professional hereby grants to the Company an exclusive license to use her name, likeness, image and personal identification, singly or in any combination, in connection with the production, use, marketing and sale of a \"Kathy Whitworth\" signature line of women's golf clubs (the \"Products\"), as described more fully in Section 3 below.",
+    "The Professional hereby grants to the Company the exclusive and worldwide right to use her name, likeness, image and personal identification, singly or in any combination, during the Term and for a period of six (6) months after the Term as provided in Section 2.8, in the creation of two (2) print advertisements per year and one (1) television advertisement per year (together, the \"Advertisements\") for any golf equipment, along with all rights in any images, videos, advertisement copy or other materials created by the Professional or others.",
+    "The Professional hereby grants to the Company an exclusive license to use her name, likeness, image and personal identification in the Company's catalog of products."
+   ],
+   "Non-Transferable License": [],
+   "Affiliate License-Licensor": [],
+   "Affiliate License-Licensee": [],
+   "Unlimited/All-You-Can-Eat-License": [],
+   "Irrevocable or Perpetual License": [],
+   "Source Code Escrow": [],
+   "Post-Termination Services": [],
+   "Audit Rights": [],
+   "Uncapped Liability": [],
+   "Cap on Liability": [],
+   "Liquidated Damages": [],
+   "Warranty Duration": [],
+   "Insurance": [],
+   "Covenant Not to Sue": [],
+   "Third Party Beneficiary": []
+  }
+ },
+ {
+  "name": "Trademark license (Arconic)",
+  "text": "2.7 FORM OF TRADEMARK LICENSE AGREEMENT THIS TRADEMARK LICENSE AGREEMENT (this \"Agreement\"), made and entered into as of the [ ] day of [ ], 2020 (the \"Effective Date\"), by and between ARCONIC INC., a corporation organized under the laws of Delaware (\"Licensee\") and ARCONIC ROLLED PRODUCTS CORP., a corporation organized under the laws of Delaware (\"Licensor\"). WHEREAS, Licensor and Licensee entered into a Separation and Distribution Agreement having an effective date of the [ ] day of [ ], 2020 (\"Separation and Distribution Agreement\"); unless specifically defined in this Agreement, any capitalized term in this Agreement shall have the meaning set forth in the Separation and Distribution Agreement. WHEREAS, Licensor formerly operated as a business unit of Licensee; WHEREAS, as part of and further to the Separation and Distribution Agreement: (a) Licensor and Licensee are now two separate publicly traded companies; and (b) Licensor was assigned all right, title, and interest to the trademark \"ARMX\" (the \"Licensed Mark\"); WHEREAS, Licensee wishes to license from Licensor the right to the Licensed Mark as hereinafter defined below; WHEREAS, Licensee wishes to obtain from Licensor, subject to the terms and conditions set forth in this Agreement, the right and license to use, have used, manufacture, have manufactured, sell, have sold, advertise, have advertised, import, have imported, export, have exported, offer for sale, and have offered for sale the Licensed Products (later defined) using the Licensed Mark (the \"Licensed Purpose\"); WHEREAS, Licensor is willing to grant such rights, upon the terms and subject to the conditions set forth in this Agreement. NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties, intending to be legally bound, hereby agree as follows:\n\n1\n\nSource: ARCONIC ROLLED PRODUCTS CORP, 10-12B, 12/17/2019\n\n\n\n\n\n1. GRANT AND SCOPE OF LICENSE. 1.1 Grant of License. Licensor on behalf of itself and its Affliates hereby grants to Licensee the limited licenses to use and have used the Licensed Mark: (i) for the Licensed Products as set forth on Schedule 2; and (ii) as set forth on Schedule 1, concerning agreements entered into by Licensee prior to the Effective Date (\"Existing Agreements\"). For the avoidance of doubt, Licensor also grants to Licensee and its subsidiaries and affiliates a non-exclusive, worldwide royalty-free license for continued use of the Licensed Mark for the production and sale of inventory containing the Licensed Mark applied to such products during the Transition Period as set forth in section 8.2 of the Separation and Distribution Agreement and in Schedule 2 of this Agreement. Licensee will not, however, use the Licensed Mark except for the production and sale of inventory as provided in this Section 1.1 and in Section 8.2 of the Separation and Distribution Agreement and Schedule 2 of this Agreement. For avoidance of doubt, to the extent that any of the licenses granted by the terms of this Agreement include any right to sublicense, such right to sublicense shall extend to Licensee's subsidiaries and joint venturers. 1.2 Goodwill. Licensee expressly recognizes and acknowledges that its use of the Licensed Mark shall inure solely to the benefit of Licensor, and shall not confer on Licensee any ownership rights to the Licensed Mark. Licensee agrees and covenants that it shall not challenge, contest, or take any actions inconsistent with Licensor's exclusive rights of ownership of the Licensed Mark. 1.3 Trademark Notices. All print and electronic displays of the Licensed Mark by Licensee shall include at Licensor's option, a notice to the effect that the Licensed Mark are owned by Licensor and used by Licensee under license from Licensor. 1.4 Licensee Cooperation. Licensee agrees to reasonably cooperate with Licensor in achieving registration of the Licensed Mark worldwide, and in maintaining and protecting existing registrations therefor at Licensor's sole expense. Licensee shall execute any and all documents which Licensor may reasonably request in support of such registrations, and, at Licensor's request, Licensee shall provide use evidence, testimony, and documentation that may be required in any ex parte or inter partes administrative proceedings and prosecutions, maintenance and renewals involving registrations of the Licensed Mark, at Licensee's sole expense. 1.5 Quality Control, Licensor Approvals. Licensor, as owner of the Licensed Mark, shall have the right at all times to control and approve the nature and quality of the Licensed Products (and the Licensed Mark thereon), and to inspect Licensee's business operations upon reasonable prior notice for the purpose of ensuring that a high level of quality of the Licensed Products is being maintained by Licensee. At Licensor's",
+  "output": {
+   "Document Name": [
+    "TRADEMARK LICENSE AGREEMENT"
+   ],
+   "Parties": [
+    "ARCONIC ROLLED PRODUCTS CORP.",
+    "ARCON-ONIC INC.",
+    "Licensee",
+    "Licensor"
+   ],
+   "Agreement Date": [
+    "[ ] day of [ ], 2020"
+   ],
+   "Effective Date": [
+    "[ ] day of [ ], 2020"
+   ],
+   "Expiration Date": [],
+   "Renewal Term": [],
+   "Notice Period to Terminate Renewal": [],
+   "Governing Law": [],
+   "Most Favored Nation": [],
+   "Non-Compete": [],
+   "Exclusivity": [],
+   "No-Solicit of Customers": [],
+   "Competitive Restriction Exception": [],
+   "No-Solicit of Employees": [],
+   "Non-Disparagement": [],
+   "Termination for Convenience": [],
+   "Rofr/Rofo/Rofn": [],
+   "Change of Control": [],
+   "Anti-Assignment": [],
+   "Revenue/Profit Sharing": [],
+   "Price Restrictions": [],
+   "Minimum Commitment": [],
+   "Volume Restriction": [],
+   "IP Ownership Assignment": [],
+   "Joint IP Ownership": [],
+   "License Grant": [
+    "Licensor on behalf of itself and its Affliates hereby grants to Licensee the limited licenses to use and have used the Licensed Mark: (i) for the Licensed Products as set forth on Schedule 2; and (ii) as set forth on Schedule 1, concerning agreements entered into by Licensee prior to the Effective Date (\"Existing Agreements\").",
+    "For the avoidance of doubt, Licensor also grants to Licensee and its subsidiaries and affiliates a non-exclusive, worldwide royalty-free license for continued use of the Licensed Mark for the production and sale of inventory containing the Licensed Mark applied to such products during the Transition Period as set forth in section 8.2 of the Separation and Distribution Agreement and in Schedule 2 of this Agreement."
+   ],
+   "Non-Transferable License": [],
+   "Affiliate License-Licensor": [],
+   "Affiliate License-Licensee": [],
+   "Unlimited/All-You-Can-Eat-License": [],
+   "Irrevocable or Perpetual License": [],
+   "Source Code Escrow": [],
+   "Post-Termination Services": [],
+   "Audit Rights": [
+    "Licensor, as owner of the Licensed Mark, shall have the right at all times to control and approve the nature and quality of the Licensed Products (and the Licensed Mark thereon), and to inspect Licensee's business operations upon reasonable prior notice for the purpose of ensuring that a high level of quality of the Licensed Products is being maintained by Licensee."
+   ],
+   "Uncapped Liability": [],
+   "Cap on Liability": [],
+   "Liquidated Damages": [],
+   "Warranty Duration": [],
+   "Insurance": [],
+   "Covenant Not to Sue": [
+    "Licensee agrees and covenants that it shall not challenge, contest, or take any actions inconsistent with Licensor's exclusive rights of ownership of the Licensed Mark."
+   ],
+   "Third Party Beneficiary": []
+  }
+ }
+]

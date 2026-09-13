@@ -73,6 +73,22 @@ Serving is Ollama with format json (grammar-constrained), temperature 0, and num
 computed per request so the prompt never gets silently truncated. At evaluation time,
 chunk outputs are merged per contract (union per clause type).
 
+## Local demo
+
+`demo/` has a small Gradio UI that runs against Ollama on your own machine - nothing
+leaves it. Setup:
+
+```
+hf download Ihteshamstar/qwen3-4b-cuad-extractor gguf/cuad-4b-s42-q4_K_M.gguf --local-dir demo/dl
+ollama create cuad-extractor -f demo/Modelfile      # after moving the gguf next to the Modelfile
+pip install gradio
+python demo/app.py
+```
+
+Paste a contract (or load one of the bundled CUAD test excerpts), get the found clause
+types with their verbatim quotes. A ~5k-character excerpt takes a few seconds on a
+consumer GPU.
+
 ## Repo layout
 
 ```
